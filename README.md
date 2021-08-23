@@ -8,8 +8,8 @@
 | -- | --- | --- | -- | -----  | ---------- | -------- | ------- |----|
 | 1주차 |21/08/06|21/08/16| [1st course: Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) | Introduction to deep learning | 2 | 7 | 76 |✔️|
 | 1주차 |21/08/06|21/08/16| [1st course: Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) | Neural Networks Basics | 8 | 19 | 161 |✔️|
-| 2주차 |21/08/16|21/08/23| [1st course: Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) | Shallow neural networks | 5 | 12 | 109 |
-| 2주차 |21/08/16|21/08/23| [1st course: Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) | Deep neural networks | 5 | 8 | 64 |
+| 2주차 |21/08/16|21/08/23| [1st course: Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) | Shallow neural networks | 5 | 12 | 109 |✔️|
+| 2주차 |21/08/16|21/08/23| [1st course: Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) | Deep neural networks | 5 | 8 | 64 |✔️|
 | 3주차 |21/08/23|21/08/30| [2nd course: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning) | Partial aspects of Deep Learning | 8 | 15 | 131 |
 | 4주차 |21/08/30|21/09/06| [2nd course: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning) | Optimization algorithms | 5 | 11 | 92 |
 | 4주차 |21/08/30|21/09/06| [2nd course: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning) | Hyperparameter tuning, Batch Normalization and Programming Frameworks | 5 | 11 | 104 |
